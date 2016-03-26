@@ -1,0 +1,1 @@
+Eventually, this will turn into a chatbot. More info will be added as i complete the project.

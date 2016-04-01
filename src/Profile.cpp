@@ -2,7 +2,7 @@
  * Profile.cpp
  *
  *  Created on: Mar 27, 2016
- *      Author: Elijah
+ *      Author: theanderthal
  */
 #include "Profile.h"
 #include <string>

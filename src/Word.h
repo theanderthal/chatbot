@@ -2,7 +2,7 @@
  * Word.h
  *
  *  Created on: Apr 1, 2016
- *      Author: Elijah
+ *      Author: theanderthal
  */
 
 #ifndef WORD_H_

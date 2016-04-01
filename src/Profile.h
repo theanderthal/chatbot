@@ -2,7 +2,7 @@
  * Profile.h
  *
  *  Created on: Mar 26, 2016
- *      Author: Elijah
+ *      Author: theanderthal
  */
 // class Profile saves commonly used words and phrases to a file to be p[arsed by the chatbot.
 // profiles are kept relatively small due to the fact that a phrase is only saved if it used a certain number of times

@@ -2,7 +2,7 @@
  * Bot.h
  *
  *  Created on: Mar 26, 2016
- *      Author: Elijah
+ *      Author: theanderthal
  */
 
 #ifndef BOT_H_
